@@ -6,17 +6,17 @@
 > on a different machine. **This is also a live demonstration of the workshop's
 > "make decisions visible and durable in markdown" principle.**
 
-- **Student:** _(your name — fill in during Module 0)_
-- **Model in use:** _(e.g. Opus 4.8 — recorded in Module 0)_
-- **Last session:** _(the guide stamps this)_
+- **Student:** Adam
+- **Model in use:** Opus 4.8
+- **Last session:** 2026-07-02 — completed Module 0 (onboarding)
 
 ## Module checklist
 
 | # | Module | Status | Completed |
 |---|--------|--------|-----------|
-| 0 | Getting started (onboarding to the workshop) | ⬜ not started | — |
+| 0 | Getting started (onboarding to the workshop) | ✅ done | 2026-07-02 |
 | 1 | The workshop loop: plan → act → verify → record → commit → push | ⬜ not started | — |
-| 2 | Choosing your model | 🔒 locked | — |
+| 2 | Choosing your model | ⬜ not started | — |
 | 3 | Steering with modes: plan vs. auto | 🔒 locked | — |
 | 4 | Project memory: CLAUDE.md & skills | 🔒 locked | — |
 | 5 | Co-design & durable decisions | 🔒 locked | — |
@@ -32,10 +32,12 @@ earlier modules first)
 > why you chose an approach), the guide records them here so they survive across
 > sessions. Add your own notes too.
 
-_(nothing yet)_
+- **Module 0:** Chose **Opus 4.8** as the workshop guide model (most capable for
+  reasoning/teaching-heavy work; will revisit *how* to choose in Module 2).
 
 ## Session log
 
 > One line per working session, newest first. The guide appends here.
 
-_(nothing yet)_
+- 2026-07-02 — Adam started the workshop; completed Module 0 (name + model
+  recorded, met the guide). Module 1 unlocked.
